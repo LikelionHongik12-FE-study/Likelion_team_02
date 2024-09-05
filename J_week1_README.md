@@ -31,6 +31,7 @@
       
         코드 오류 ❌ ➡️ 바이트 코드가 아닌 자바스크립트 코드로 변환 후 컴파일 종료
 
+<img width="796" alt="스크린샷 2024-09-05 오전 12 44 46" src="https://github.com/user-attachments/assets/14a79775-a6f3-4bd9-839d-80dcdcd326d3">
 
 ---
 
